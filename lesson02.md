@@ -1,6 +1,6 @@
 # Лекция 2. Логика, условия и безопасный ввод
 
-![Bool.jpeg](images/Bool.jpeg)
+![Bool.jpeg](images/logic.jpg)
 
 ## Вступление
 
